@@ -66,4 +66,4 @@ Note：不希望填写账号密码或者对稳定性要求较高的同学依然�
 ---
 Github-Actions部分配置参考仓库
 [中南大学nCov健康打卡定时自动脚本](https://github.com/lxy764139720/Auto_Attendance)，
-特此感谢  
+特此感谢  。
